@@ -6,8 +6,7 @@ body
   }
 
 .bd {
-      background-image: url('https://images-eu.ssl-images-amazon.com/images/I/81lZLzUsISL.jpg');
-
+    background-image: url(../images/bg.jpg);
     background-size: cover;
     background-repeat:no-repeat;
     background-position:center; 
