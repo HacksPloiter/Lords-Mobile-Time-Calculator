@@ -9,8 +9,6 @@ View the live version of this repo here
 View my profile  
 -> https://codehack3r.github.io
 
-Clipboard.js file has been developed by <a href="https://github.com/zenorocha">Zenorocha</a>
-
 Tags:
 Lords Mobile
 Lords Mobile Time Calculator
