@@ -4,10 +4,10 @@ This page has been designed upon request.
 It will calculate final time required for a task to complete at certain %age boost.
 
 View the live version of this repo here  
--> https://codehack3r.github.io/Lords-Mobile-Time-Calculator
+-> https://hacksploiter.github.io/Lords-Mobile-Time-Calculator
 
 View my profile  
--> https://codehack3r.github.io
+-> https://hacksploiter.github.io
 
 Tags:
 Lords Mobile
